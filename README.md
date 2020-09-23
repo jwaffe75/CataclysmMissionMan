@@ -21,7 +21,7 @@
 > Run-time error '5': Invalid procedure call or argument
 
 
-# Behavior to the Cataclysm version of MissionMan
+# New quirks in the Cataclysm version of MissionMan
 Unfortunately it seems like there's quite a few oversights in the version of MissionMan distributed with Homeworld Cataclysm
 
 Note that the Cataclysm Mission.doc document in the same directory as MissionMan.exe is not a copy/paste of the HW1 one, and it's quite a bit more helpful.
